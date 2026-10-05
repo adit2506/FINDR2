@@ -1,0 +1,6 @@
+{
+  "name": "FINDR",
+  "description": "FINDR is a minimalist, Apple-inspired campus platform to report lost and found items and help reunite students with their belongings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
